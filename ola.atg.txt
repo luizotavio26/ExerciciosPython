@@ -1,0 +1,25 @@
+git@github.com:luizotavio26/ExerciciosPython.git
+
+1. git init - primeiro
+usar ls pra ver o que tem nesse repositório
+
+
+2. criar branch
+
+    git branch -M main
+
+    ir no github e pegar o endereço do repositório (remote no git gui, add -> nome, local: que é https)
+
+    quando cria o git hub, ele automaticamente cria uma branch main - por padrão
+
+3. git init
+
+2. git branch -M main
+
+    git remote add Luiz https://github.com/luizotavio26/ExerciciosPython.git
+
+    git remote Luiz
+
+    git status
+
+4. commit
