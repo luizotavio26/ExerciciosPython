@@ -95,3 +95,5 @@ def vamosjogar():
 vamosjogar()
 
 # %%
+
+#funcionou 
